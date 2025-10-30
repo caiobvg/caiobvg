@@ -5,8 +5,4 @@
 
 <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiobvg&layout=compact&theme=radical&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiobvg&show_icons=true&theme=radical&hide_border=true"/>
-
-
-
 </div>
