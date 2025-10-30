@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**caiobvg/caiobvg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white
+https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black
+https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%252B%252B&logoColor=white
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://github-readme-stats.vercel.app/api?username=caiobvg&show_icons=true&theme=radical&hide_border=true
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=caiobvg&layout=compact&theme=radical&hide_border=true
+
+https://github-readme-streak-stats.herokuapp.com/?user=caiobvg&theme=radical&hide_border=true
+
+</div><div align="center">
+
+https://github.com/caiobvg/caiobvg/blob/output/github-contribution-grid-snake.svg
+</div>
