@@ -3,7 +3,7 @@ Olá, eu sou o Caio! 👋
 <div align="center">
 Principais Linguagens
 
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+ <i class="devicon-lua-plain colored"></i>
 https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white
 https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black
 https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%252B%252B&logoColor=white
